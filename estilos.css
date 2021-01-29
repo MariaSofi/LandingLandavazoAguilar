@@ -1,0 +1,86 @@
+body{
+  font-family: Verdana;
+  background-color: #F5FOED;
+}
+.contenedor{
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+h1{
+  font-size: 60px;
+  color: black;
+  text-align: center;
+}
+
+.presentacion p{
+  background-color: #D6B7B5;
+  padding: 25px;
+  width: 90%;
+  //box-sizing: border-box;
+}
+
+.hobbies{
+  list-style: square ;
+  width: 90%;
+  padding: 25px;
+  background-color: #D4C6BD;
+
+}
+.hobbies img{
+  margin-bottom: 10px;
+  width: 16%;
+  height: 15%;
+  float: left;
+  margin-right: 35px;
+
+}
+
+.hobbies h2{
+  font-size: 22px;
+  margin-top: -10px;
+}
+
+.comidas{
+  margin-top: 25px;
+  list-style: square ;
+  width: 90%;
+  padding: 25px;
+  background-color: #3D5361;
+}
+
+.comidas h2{
+  font-size: 22px;
+  margin-top: -10px;
+}
+
+.comidas img{
+  margin-bottom: 10px;
+  float: right;
+  width: 20%;
+  height: 15%;
+  margin-right: 50px;
+}
+
+.contacto{
+  margin-top: 20px;
+  list-style: square ;
+  width: 90%;
+  padding: 25px;
+  background-color: #F4E0B7;
+}
+
+.contacto h2{
+  font-size: 22px;
+  margin-top: -10px;
+}
+
+.contacto img{
+  margin-bottom: 10px;
+  width: 18%;
+  height: 15%;
+  float: left;
+  margin-right: 35px;
+}
